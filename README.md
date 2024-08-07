@@ -24,11 +24,12 @@ To set up the project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/music-player.git
+   git clone git@github.com:ruiw1212/Ray-Music-website.git
 
 2. **Navigate to the project directory**:
   ```bash
   cd music-player
+  ```
 
 3. **Install dependencies**:
    ```bash
@@ -37,10 +38,11 @@ To set up the project locally, follow these steps:
 4. **Start the development server**:
   ```bash
   npm start
+  ```
 
 ## Usage
 
-Once the development server is running, open your browser and navigate to ‘http://localhost:3000’ to view the application. You can select a song from the list, and the music video and lyrics will be displayed.
+Once the development server is running, open your browser and navigate to ‘http://localhost:5500’ to view the application. You can select a song from the list, and the music video and lyrics will be displayed.
 
 ## Contributing
 
